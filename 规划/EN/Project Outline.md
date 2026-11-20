@@ -12,6 +12,6 @@ YYGame Studio
 - Publisher:Phoenix Game Studio
 <br>
 ####  Outline
-- Game Itself:[Phoenix Era:Terra](./Phoenix%20Era%20Terra.md)
-- Game Content DLC:[Phoenix Era:Interstellar](<./Phoenix%20Era%20Interstellar.md>)
+- Game Itself:[Phoenix Era:Terra](./Phoenix-Era-Terra.md)
+- Game Content DLC:[Phoenix Era:Interstellar](<./Phoenix-Era-Interstellar.md>)
 - 
