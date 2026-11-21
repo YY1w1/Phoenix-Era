@@ -5,4 +5,4 @@
 </div>
 
 [简体中文](./ZHI/项目大纲.md)
-[English](./EN/Project%20Outline.md)
+[English](./EN/Project-Outline.md)
